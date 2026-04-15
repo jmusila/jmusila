@@ -4,7 +4,7 @@ Senior Software Developer | PHP | Python | JavaScript | TypeScript | React | Lar
 I build scalable web applications, APIs, and data-driven systems with a focus on performance and clean architecture.
 
 ## 💡 What I Do
-- Design and develop REST APIs with Flask & PHP 
+- Design and develop REST APIs with Laravel & Node.js, Next.js, Flask 
 - Build full-stack web apps using React & Laravel  
 - Work with SQL databases to create reliable, scalable systems  
 - Turn complex ideas into simple, usable products  
