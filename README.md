@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan Musila 👋  
+# Hello, I'm Jonathan Musila 👋  
 Senior Software Developer | PHP | Python | JavaScript | TypeScript | React | Laravel | Flask  
 
 I build scalable web applications, APIs, and data-driven systems with a focus on performance and clean architecture.
@@ -19,7 +19,7 @@ I build scalable web applications, APIs, and data-driven systems with a focus on
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ## 🔭 Currently
-- Building: [Scolight](https://scolight.com)  
+- Building: [Scolight](https://scolight.com) | [GoldenTech Computer Training College](https://goldentechcomputercollege.com)
 - Learning: System design, scalable architectures & AI
 
 [![Jonathan Musila's github stats](https://github-readme-stats.vercel.app/api?username=jmusila&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jmusila/github-readme-stats)
