@@ -10,13 +10,13 @@ I build scalable web applications, APIs, and data-driven systems with a focus on
 - Turn complex ideas into simple, usable products  
 
 ## ⚙️ Tech Stack
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔭 Currently
 - Building: [Scolight](https://scolight.com) | [GoldenTech Computer Training College](https://goldentechcomputercollege.com)
