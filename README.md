@@ -18,6 +18,10 @@ I build scalable web applications, APIs, and data-driven systems with a focus on
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
+## 🔭 Currently
+- Building: [Scolight](https://scolight.com)  
+- Learning: System design, scalable architectures & AI
+
 [![Jonathan Musila's github stats](https://github-readme-stats.vercel.app/api?username=jmusila&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jmusila/github-readme-stats)
 
 ## Connect with me
