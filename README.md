@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Jonathan Musila 👋  
+Senior Software Developer | PHP | Python | JavaScript | TypeScript | React | Laravel | Flask  
+
+I build scalable web applications, APIs, and data-driven systems with a focus on performance and clean architecture.
 
 [![Jonathan Musila's github stats](https://github-readme-stats.vercel.app/api?username=jmusila&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jmusila/github-readme-stats)
 
