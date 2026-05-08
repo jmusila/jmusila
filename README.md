@@ -19,7 +19,7 @@ I build scalable web applications, APIs, and data-driven systems with a focus on
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔭 Currently
-- Building: [Scolight](https://scolight.com) | [GoldenTech Computer Training College](https://goldentechcomputercollege.com)
+- Building: [GoldenTech Innovations](https://goldentechinnovations.com) | [Scolight](https://scolight.com) | [GoldenTech Computer Training College](https://goldentechcomputercollege.com)
 - Learning: System design, scalable architectures & AI
 
 [![Jonathan Musila's github stats](https://github-readme-stats.vercel.app/api?username=jmusila&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jmusila/github-readme-stats)
